@@ -1,5 +1,6 @@
 use raylib::prelude::*;
 
+mod fill;
 mod framebuffer;
 mod line;
 
